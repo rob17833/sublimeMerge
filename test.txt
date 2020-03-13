@@ -31,3 +31,23 @@ There are different colors for diffs:
 	green means added lines
 	red cursor means deleted lines
 YOU CAN LOOP INTO THE MODIFICATIONS BY USING CTRL+. TO SEE THEM
+
+This sublime feature is handfull because whatever changes you make on your file
+BEFORE closing this file you can always retrieve the first version of your code !
+
+STEP 2 connect an untracked file to a unexisting repository
+step 1 go to the root folder you want to track >>> git init
+step 2 create a new repo on gitHub >>> give it a name and an url will be created
+step 3 copy the given url
+step 4 open sublimeMerge and >>>add remote+nameRepo+urlRepo >>> enter
+step 5 fill username+password
+Done, this folder is tracked and has a remote repository !
+
+Now open the file in sublimeText.
+Nothing has changed however you can see the name of the branch you are on.
+SublimeText Diff integration is still working but you don't even notice anything about 
+git while typing new lines until you save your file but once you 'ctrl+s' some marks
+appears next to the file you just saved (side bar)
+A small colored dot in the side bar.
+Each time you change your file and you save, it updates sublimeMerge, ready to add .
+and commit >>> easy peacy ! 
