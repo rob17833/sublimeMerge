@@ -49,5 +49,11 @@ SublimeText Diff integration is still working but you don't even notice anything
 git while typing new lines until you save your file but once you 'ctrl+s' some marks
 appears next to the file you just saved (side bar)
 A small colored dot in the side bar.
-Each time you change your file and you save, it updates sublimeMerge, ready to add .
+Each time you change your file and you save, it updates sublimeMerge, ready to STAGE
 and commit >>> easy peacy ! 
+If you stage, all the 'diffs' disappear ! SO THE SUBLIME DIFF FEATURES ARE AVAILABLE
+UNTILL YOU STAGE YOUR FILE !  THE GIT MARKS IN THE SIDE BAR AS WELL
+
+YOU DON T NEED TO STAGE UNTILL YOU WANT TO CHECKOUT !
+So be sure before STAGE AND COMMIT (unstage is possible)
+
