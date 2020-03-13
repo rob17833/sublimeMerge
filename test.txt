@@ -57,3 +57,8 @@ UNTILL YOU STAGE YOUR FILE !  THE GIT MARKS IN THE SIDE BAR AS WELL
 YOU DON T NEED TO STAGE UNTILL YOU WANT TO CHECKOUT !
 So be sure before STAGE AND COMMIT (unstage is possible)
 
+To ensure sublime_Merge to work altogether with sublimeText
+make sure you install it by following installation procedure on sublime website
+
+INSTALLATION FROM LINUX APP LIBRARY WON T WORK!
+
