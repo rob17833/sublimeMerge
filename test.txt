@@ -62,3 +62,17 @@ make sure you install it by following installation procedure on sublime website
 
 INSTALLATION FROM LINUX APP LIBRARY WON T WORK!
 
+***SUBLIME_MERGE***
+Clicking on the branch icon at the bottom of sublime_text will open sublime_merge.
+Immediately subimeMerge is going to show you all the commit realized in the left
+column, you can travel throught the commit and sublime will show the details for 
+each commit.
+
+There is a great feature in sublime_merge that allows you to select/sort all the
+commit for a specific folder or file >>> in sublime_test, just select the folder you
+want and on right click >>> folder history OR within the file you are working on
+ctrl+shift P >>>merge history file >>> will filter sublime_merge and display
+every commit for this file, useful !
+
+Even further, selecting line within a file and click right >>> open lines history !
+
