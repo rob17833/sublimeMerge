@@ -1,0 +1,33 @@
+The first thing you have t know is that this sublime version
+already provide diff integration.
+
+What's diff integration?
+well let's say you create a new file like this one, you start typing some lines
+and you will see an orange line appears in the margin that tells you these lines
+didn't exist before, there are new lines 
+then of course as usual you will ctrl s to save your document, however the orange indicator in the margin is still there !
+
+THE ORANGE MARKER IN THE LEFT MARGIN SHOWS THE DIFFERENCES BETWEEN THIS FILE NOW AND
+THE THIS FILE WHEN IT HAS BEEN OPENED !
+IN OTHER WORDS, THESE ARE NEW LINES FROM THE LAST TIME YOU CLOSED YOUR DOCUMENT.
+
+Now if you close your file and open it again this orange marker will have disappeared
+and if you open the menu looking for Diff Hunk, well basically this option won't 
+appears.
+
+Write new lines and you will be able so display the Diff Hunk again.
+
+So this is a new feature in sublime text that allows you to see the diffs even though
+your file IS NOT FOLLOWED BY GIT.
+
+Try it again and again to be sure you have understand it!
+
+You can also call this menu in order to see which lines ARE NOT BEEN SAVED.
+
+And try it again !
+
+There are different colors for diffs:
+	orange means modified lines
+	green means added lines
+	red cursor means deleted lines
+YOU CAN LOOP INTO THE MODIFICATIONS BY USING CTRL+. TO SEE THEM
